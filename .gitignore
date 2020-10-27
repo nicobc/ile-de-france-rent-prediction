@@ -4,3 +4,4 @@ data/locations_2020_10_clean.csv
 data/orpi_2020_10_23.csv
 output/rent_predictor.h5
 output/scaler.pkl
+.ipynb_checkpoints/*
